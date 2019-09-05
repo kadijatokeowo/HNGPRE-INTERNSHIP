@@ -1,0 +1,60 @@
+
+#main {
+	float: left;
+	width: 60%;
+}
+
+#side {
+	float: right;
+	width: 27%;
+	background: lightblue;
+}
+#main{
+height:100%;
+padding:3%;
+}
+
+#side{
+height:100%;
+padding:3%;
+}
+
+h3.subheading {
+	background:grey;
+	width: 75%;
+	padding-left: 5px;
+}
+
+#wide{
+	width: 40%;
+	background:grey;
+}
+
+#school {
+			text-align:right;
+			padding-right: 50%;
+		}
+
+h5.date {
+	color: grey;
+}
+
+h3.work{
+	text-align:center;
+	padding-right: 40%
+}
+
+p.wordings{
+	text-align:center;
+	padding-right: 40%
+}
+
+h3.sides{
+	color:#303030;
+	font-weight: bold;
+	font-family: 
+}
+
+p.wording{
+	font-family: Arial;
+}
